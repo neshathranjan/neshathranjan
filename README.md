@@ -81,12 +81,6 @@ HTML • CSS • JavaScript • Node.js • Express.js • SQLite
 <img src="https://img.shields.io/badge/🚀%20Live%20Demo-2962FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-&nbsp;
-
-<a href="https://github.com/neshathranjan/LittleBeautySalon">
-<img src="https://img.shields.io/badge/📂%20Source%20Code-24292E?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </p>
 
 ---
